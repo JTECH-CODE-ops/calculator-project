@@ -1,2 +1,3 @@
-i am adding this from,
+welcome to git
+ this cool
  "feature-branch"
